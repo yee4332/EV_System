@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leeyh</h1>
 <h3 align="center">This Project is EV System Technology Implementation.</h3>
 
-<h3 align="left">Project Explain :  This Project Main is BLDC Control and Power Train Control. Hybrid cars, electric cars Logic. Did i maked PCB & HardWare. and FirmWare working base is { STM32cubeIDE -> FreeRTOS }. </h3>
+<h3 align="left">Project Explain : This project main is BLDC Control and Power Train Control. implement some features of the Hybrid cars, electric cars </h3>
 
 <h3 align="left">PCB Tool : EasyEDA</h3>
 <h3 align="left">FW Tool : STM32cubeIDE & cubeMX</h3>
