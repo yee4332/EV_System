@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Leeyh</h1>
 <h3 align="center">This Project is EV System Technology Implementation.</h3>
 
-<h3 align="left">Project Explain : This project main is BLDC Control and Power Train Control. implement some features of the Hybrid cars, electric cars </h3>
+<h3 align="center">Project Explain : This project main is BLDC Control and Power Train Control. implement some features of the Hybrid cars, electric cars </h3>
 
-<h3 align="left">PCB Tool : EasyEDA</h3>
-<h3 align="left">FW Tool : STM32cubeIDE & cubeMX</h3>
-<h3 align="left">MCU : STM32F407G</h3>
-<h3 align="left">Code Base : FreeRtos</h3>
+<h3 align="center">PCB Tool : EasyEDA</h3>
+<h3 align="center">FW Tool : STM32cubeIDE & cubeMX</h3>
+<h3 align="center">MCU : STM32F407G</h3>
+<h3 align="center">Code Base : FreeRtos</h3>
   
 <p align="left">
 </p>
